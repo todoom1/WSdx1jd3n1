@@ -12,7 +12,15 @@ document.getElementById("cf").addEventListener("click", function() {  window.ope
 document.getElementById("dt").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNjMmcHQ9QzQxNzdFMDYtM0JGOS1CM0MwLUE0NkEtQkEyMDM0MzY0MzlC"), '_blank');});
 document.getElementById("st").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTgmdG9wSWQ9MjYzOTkmc2VsZlBsYW5JZD00NTk4"), '_blank');});
 document.getElementById("df").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMwJnRvcElkPTEzODA2DQ=="), '_blank');});
+document.getElementById("df").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly94anZ1ZWIuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTAxMCZ0b3BJZD00NTUxNzc0ODcyMTExMTg0"), '_blank');});
+document.getElementById("df").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly95ZGt6ai5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDU2JnRvcElkPTU2MDE3Njg0Nzk2ODY0ODI"), '_blank');});
+document.getElementById("df").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMxJnB0PUVBNDBFODE3LTMzNkItMjcyRi1COUNDLTkxNTYwNDI1QTJEOQ"), '_blank');});
+document.getElementById("df").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUwJnRvcElkPTY3MjE3NjM0ODMyMjQ0MjImc2VsZlBsYW5JZD0xMzIxMDM"), '_blank');});
 
+document.getElementById("sjn").innerHTML = ("赏金国际");
+document.getElementById("zmn").innerHTML = ("逐梦国际");
+document.getElementById("ztn").innerHTML = ("征途国际");
+document.getElementById("ffn").innerHTML = ("非凡国际");
 document.getElementById("jln").innerHTML = ("超凡国际");
 document.getElementById("xsdn").innerHTML = ("新时代");
 document.getElementById("t1n").innerHTML = ("TOP1体育");
