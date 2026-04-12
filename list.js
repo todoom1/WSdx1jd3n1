@@ -17,7 +17,9 @@ document.getElementById("sj").addEventListener("click", function() {  window.ope
 document.getElementById("zm").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly95ZGt6ai5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDU2JnRvcElkPTU2MDE3Njg0Nzk2ODY0ODI"), '_blank');});
 document.getElementById("zt").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMxJnB0PUVBNDBFODE3LTMzNkItMjcyRi1COUNDLTkxNTYwNDI1QTJEOQ"), '_blank');});
 document.getElementById("ff").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUwJnRvcElkPTY3MjE3NjM0ODMyMjQ0MjImc2VsZlBsYW5JZD0xMzIxMDM"), '_blank');});
-
+document.getElementById("hy").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTEzMzkwJnNlbGZQbGFuSWQ9MjUx"), '_blank')
+});
+document.getElementById("hyn").innerHTML = ("汇赢国际");
 document.getElementById("sjn").innerHTML = ("赏金国际");
 document.getElementById("zmn").innerHTML = ("逐梦国际");
 document.getElementById("ztn").innerHTML = ("征途国际");
