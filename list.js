@@ -1,7 +1,7 @@
 document.getElementById("3").innerHTML = ("2026美加墨世界杯官方合作广告商");
 document.getElementById("2").innerHTML = ("🔥十年信誉平台<br>⚽世界杯官方投注平台");
 document.getElementById("1").innerHTML="WS77.MY";
-//aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTEzMzkwJnNlbGZQbGFuSWQ9MjUx
+
 
 document.getElementById("jl").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTIwODEmdG9wSWQ9NjQ5NzImc2VsZlBsYW5JZD01MDgwNg"), '_blank');});
 document.getElementById("xsd").addEventListener("click", function() {  window.open(atob("aHR0cHM6Ly9kZXJlYXIuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA1OSZ0b3BJZD0yMzU0NSZzZWxmUGxhbklkPTY2MzA"), '_blank');});
